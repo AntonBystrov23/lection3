@@ -33,3 +33,6 @@
 ✦	git log -p 
 ✦	git log --online
 ✦	git log --graph
+✦	git add . - текущая директория
+✦	git add : - родительская директория
+
