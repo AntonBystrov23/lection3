@@ -30,3 +30,6 @@
 ✦	git checkout <название ветки> – переход к другой ветке
 ✦	git branch -d <название ветки> – удалить ветку
 
+✦	git log -p 
+✦	git log --online
+✦	git log --graph
