@@ -18,3 +18,6 @@
 
 
 
+✦	git log -p 
+✦	git log --online
+✦	git log --graph
